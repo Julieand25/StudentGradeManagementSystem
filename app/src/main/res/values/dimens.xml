@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_padding">32dp</dimen>
+    <dimen name="logo_height">330dp</dimen>
+    <dimen name="logo_bottom_padding">16dp</dimen>
+    <dimen name="spacer_small">8dp</dimen>
+    <dimen name="spacer_medium">16dp</dimen>
+    <dimen name="spacer_large">32dp</dimen>
+    <dimen name="button_height">56dp</dimen>
+    <dimen name="image_height">280dp</dimen>
+
+    <dimen name="top_app_bar_icon_size">150dp</dimen>
+    <dimen name="horizontal_padding">16dp</dimen>
+    <dimen name="avatar_size">74dp</dimen>
+    <dimen name="avatar_spacing">12dp</dimen>
+    <dimen name="dashboard_spacer">32dp</dimen>
+    <dimen name="button_icon_size">54dp</dimen>
+    <dimen name="button_icon_text_spacing">28dp</dimen>
+
+    <dimen name="form_spacing">8dp</dimen>
+    <dimen name="form_spacing_large">16dp</dimen>
+    <dimen name="form_spacing_xlarge">24dp</dimen>
+
+    <dimen name="logo_height01">150dp</dimen>
+
+
+</resources>

@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">Student Grade Management System</string>
+
+    //loginscreen
+    <string name="school_logo_description">School Logo</string>
+    <string name="login_title">Login</string>
+    <string name="login_subtitle">Sign in to continue</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Password</string>
+    <string name="login_button">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+
+    //forgotpasswordscreen
+    <string name="forgot_password_image_desc">Reset Password Icon</string>
+    <string name="reset_password_title">Reset Password</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="send_reset_email">Send Reset Email</string>
+    <string name="reset_email_sent">Reset email sent! Please check your inbox.</string>
+    <string name="email_sent">Email sent!</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="default_error_message">Something went wrong</string>
+
+    //dashboard
+    <string name="hat_icon_description">Hat Icon</string>
+    <string name="tap_to_edit_profile">Tap to edit profile</string>
+    <string name="logout">Logout</string>
+    <string name="logout_icon_description">Logout</string>
+    <string name="student_profile_management">Student Profile Management</string>
+    <string name="student_icon_description">Student Icon</string>
+    <string name="grade_record_management">Grade Record Management</string>
+    <string name="grade_icon_description">Grade Icon</string>
+    <string name="change_password">Change Password</string>
+    <string name="change_password_icon_description">Change Password Icon</string>
+    <string name="edit_profile">Edit Profile</string>
+
+    //editteacherprofile
+    <string name="selected_image">Selected Image</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="pick_image">Pick Image</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="ic_number">IC Number</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="gender">Gender</string>
+    <string name="address">Address</string>
+    <string name="save">Save</string>
+    <string name="saving">Saving...</string>
+    <string name="cancel">Cancel</string>
+    <string name="profile_updated">Profile updated</string>
+    <string name="profile_failed">Failed to save profile</string>
+
+    //studentlist
+    <string name="name_label">Name: %1$s</string>
+    <string name="grade_label">Grade: %1$s</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="confirm_delete_title">Confirm Delete</string>
+    <string name="confirm_delete_message">Are you sure you want to delete %1$s?</string>
+    <string name="add_student">Add Student</string>
+
+    //addstudent
+    <string name="birth_cert_number">Birth Certificate Number</string>
+    <string name="calendar_icon_description">Calendar Icon</string>
+    <string name="grade_level">Class/Grade Level</string>
+    <string name="nationality">Nationality</string>
+    <string name="parent_contact">Parent Contact</string>
+    <string name="school_year">School Year</string>
+    <string name="select_subjects">Select Subjects</string>
+    <string name="confirm">Confirm</string>
+    <string name="update_student">Update Student</string>
+    <string name="save_student">Save Student</string>
+
+    //editstudent
+    <string name="select_date">Select Date</string>
+    <string name="student_updated_success">Student updated successfully</string>
+    <string name="student_update_failed">Failed to update student</string>
+    <string name="no_student_to_edit">No student found to edit.</string>
+    <string name="dropdown">Dropdown</string>
+    <string name="no_student_found">No student found to edit.</string>
+
+    //Grade Record Screen
+    <string name="class_label">Class</string>
+    <string name="select_class">Select Class</string>
+    <string name="subject_label">Subject</string>
+    <string name="select_subject">Select Subject</string>
+    <string name="no_students_found">No students found for this class and subject.</string>
+    <string name="absent">Absent</string>
+    <string name="mark_placeholder">-</string>
+    <string name="edit_mark">Edit Mark</string>
+    <string name="edit_mark_for">Edit Mark for %1$s</string>
+    <string name="mark">Mark</string>
+    <string name="edit_mark_dialog_absent">Absent</string>
+
+    //changepassword
+    <string name="verify_current_password">Verify Current Password</string>
+    <string name="set_new_password">Set New Password</string>
+    <string name="enter_old_password">Enter Old Password</string>
+    <string name="next">Next</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+
+    <!-- Toast messages -->
+    <string name="user_email_not_found">User email not found.</string>
+    <string name="incorrect_old_password">Incorrect old password.</string>
+    <string name="passwords_do_not_match">Passwords do not match.</string>
+    <string name="password_too_short">Password must be at least 6 characters.</string>
+    <string name="password_changed_success">Password changed successfully.</string>
+    <string name="password_change_failed">Failed to change password: %1$s</string>
+
+
+
+</resources>

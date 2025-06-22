@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912465445629",
+    "project_id": "studentgradesystem-75d06",
+    "storage_bucket": "studentgradesystem-75d06.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912465445629:android:cda628421814352395f494",
+        "android_client_info": {
+          "package_name": "com.example.studentgrademanagementsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Y2gnSubAkl3xA3K1z7IrqVmO-BR7p6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
